@@ -1,5 +1,7 @@
 problem: empty zkey
 
+circuits/mpt/mpt_0000.zkey: Invalid File format
+
 ```
     fn setup_zkey(&self) -> Result<(), Box<dyn Error>> {
         info!("Setting up zkey ...");
